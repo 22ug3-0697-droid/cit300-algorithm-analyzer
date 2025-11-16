@@ -90,6 +90,7 @@ public class AlgorithmAnalyzer {
 
     // ===================================================================
     //  MEMBER 2: VISHWA - BINARY SEARCH
+    //  This is Vishwa's simulated commit.
     // ===================================================================
     public static void runBinarySearch() {
         System.out.println("Algorithm: Binary Search");
