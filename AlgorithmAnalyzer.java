@@ -59,6 +59,7 @@ public class AlgorithmAnalyzer {
 
     // ===================================================================
     //  MEMBER 1: MITHUN - LINEAR SEARCH
+    //  This is Mithun's FINAL simulated commit.
     // ===================================================================
     public static void runLinearSearch() {
         System.out.println("Algorithm: Linear Search");
