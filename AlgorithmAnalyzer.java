@@ -177,6 +177,7 @@ public class AlgorithmAnalyzer {
 
     // ===================================================================
     //  MEMBER 4: DILAN - QUICK SORT
+    //  This is Dilan's simulated commit.
     // ===================================================================
     public static void runQuickSort() {
         System.out.println("Algorithm: Quick Sort");
